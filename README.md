@@ -180,3 +180,7 @@ internal/ui/                 Bubble Tea model, views, theme
 - Diff colors use truecolor hex; on a 256-color terminal they degrade to the
   nearest color. Set `COLORTERM=truecolor` for the intended look.
 
+## License
+
+[MIT](LICENSE).
+
