@@ -1,0 +1,17 @@
+# Binaries
+/gitbloom.exe
+/gitbloom
+*.exe
+
+# Test artefacts
+/internal/ui/preview.txt
+
+# Go build/test output
+*.test
+*.out
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
